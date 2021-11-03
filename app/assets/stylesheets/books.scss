@@ -13,3 +13,54 @@
 .top-text {
   padding-left: 40px;
 }
+
+main {
+  padding: 20px 0 0 20px;
+}
+
+.main-logo {
+  font-size: 25px;
+}
+
+.title .body{
+  font-size: 13px;
+}
+
+.btn {
+  color: gray;
+}
+
+.btn:hover {
+  background-color: black;
+  color: #fff;
+}
+
+.newbook {
+  font-size: 20px;
+}
+
+.new-form {
+  font-size: 13px;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+.flash-message {
+  color: green;
+}
+
+.show {
+  padding-left: 20px;
+}
+
+.show-title{
+padding-bottom: 30px;
+}
+
+.show-body {
+  padding-bottom: 30px;
+}
+
+.validation {
+  border: 1px solid red;
+}
